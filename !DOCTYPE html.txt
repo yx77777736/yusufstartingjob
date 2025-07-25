@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <title>کسب‌وکار آنلاین یوسف</title>
+  <style>
+    body {
+      font-family: Tahoma, Arial, sans-serif;
+      background-color: #f0f4f8;
+      color: #333;
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      line-height: 1.6;
+    }
+    h1 {
+      color: #2a6592;
+      text-align: center;
+      margin-bottom: 25px;
+    }
+    p {
+      font-size: 18px;
+      margin-bottom: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>کسب‌وکار آنلاین یوسف</h1>
+  <p>یوسف می‌خواهد یک کسب‌وکار آنلاین مانند دراپ‌شیپینگ راه‌اندازی کند و نیاز به کمک پدر دارد.</p>
+  <p>احسان عبدالرازق از افغانستان است و با همین روش میلیون‌ها دلار درآمد کسب کرده است.</p>
+  <p>او از سن نوجوانی شروع کرد و حالا یک کارآفرین موفق است.</p>
+  <p>یوسف می‌خواهد این مسیر را با دوستش شروع کند و موفق شود.</p>
+  <p>او می‌تواند طراحی‌های خود را در سایت‌هایی مانند Teespring یا Redbubble بفروشد.</p>
+</body>
+</html>
